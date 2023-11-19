@@ -1,4 +1,4 @@
-##Panoroma Stitching
+## Panoroma Stitching
 This project aims to create a panorama stitching tool that merges two or more images into a single panoramic image. Panorama stitching is a technique used to combine multiple images, typically with overlapping sections, to create a wider or taller image.
 
 ## Features
@@ -25,5 +25,6 @@ This project aims to create a panorama stitching tool that merges two or more im
 
 ### Working
 [Image 1](img1.png) and [Image 2](img2.png) are combined to produce the [Output](output.png)
+Video link : https://drive.google.com/file/d/18pxqSydgtXeGhqoK1YLD0w1kCyw0UFXh/view?usp=drive_link
 
 
