@@ -22,7 +22,7 @@ This project aims to create a panorama stitching tool that merges two or more im
 2.Inside the stitcher.py file add paths to image you want to stitch
 3.Run the program for getting your stitched image
 
-###Working
-The following images - image1 and image2 are combined to produce the output image
-[Image 1](img1.png)
-[Image 2](img2.png)
+### Working
+[Image 1](img1.png) and [Image 2](img2.png) are combined to produce the output image
+
+
